@@ -8,6 +8,10 @@ namespace hello
         {
             Console.WriteLine("hello");
         }
+        public static void greetWhite()
+        {
+            Console.WriteLine("hello white"); 
+        }
         public static void Main(string[] args)
         {
             
