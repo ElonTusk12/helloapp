@@ -6,7 +6,7 @@ namespace hello
     {
         public static void SayHello()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello everyvone");
         }
         public static void greetWhite()
         {
@@ -14,7 +14,7 @@ namespace hello
         }
         public static void Main(string[] args)
         {
-            
+            SayHello();
         }
     }
 }
