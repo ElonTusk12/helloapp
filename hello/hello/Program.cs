@@ -20,6 +20,8 @@ namespace hello
         public static void Main(string[] args)
         {
             SayHello();
+            greetBlack();
+            greetWhite();
         }
     }
 }
